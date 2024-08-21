@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankitanag421/DSA-solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ankitanag421/DSA-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Array
@@ -16,6 +17,7 @@
 | [0075-sort-colors](https://github.com/ankitanag421/DSA-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ankitanag421/DSA-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -61,6 +63,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ankitanag421/DSA-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ankitanag421/DSA-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
