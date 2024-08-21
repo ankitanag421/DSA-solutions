@@ -8,6 +8,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ankitanag421/DSA-solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ankitanag421/DSA-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankitanag421/DSA-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ankitanag421/DSA-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/ankitanag421/DSA-solutions/tree/master/2502-sort-the-people) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ankitanag421/DSA-solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
