@@ -14,6 +14,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankitanag421/DSA-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
