@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
