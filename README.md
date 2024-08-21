@@ -15,6 +15,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ankitanag421/DSA-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-sort-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0948-sort-an-array) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2502-sort-the-people](https://github.com/ankitanag421/DSA-solutions/tree/master/2502-sort-the-people) |
@@ -42,6 +44,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ankitanag421/DSA-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0948-sort-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ankitanag421/DSA-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -79,5 +82,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
