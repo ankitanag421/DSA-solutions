@@ -15,6 +15,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ankitanag421/DSA-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ankitanag421/DSA-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankitanag421/DSA-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +46,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ankitanag421/DSA-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ankitanag421/DSA-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ankitanag421/DSA-solutions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0948-sort-an-array) |
@@ -62,6 +65,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankitanag421/DSA-solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -82,6 +86,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankitanag421/DSA-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
