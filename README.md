@@ -26,6 +26,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-sort-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0948-sort-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/ankitanag421/DSA-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankitanag421/DSA-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankitanag421/DSA-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ankitanag421/DSA-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -40,6 +41,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankitanag421/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitanag421/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitanag421/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/ankitanag421/DSA-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankitanag421/DSA-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/ankitanag421/DSA-solutions/tree/master/2502-sort-the-people) |
 ## Binary Search
